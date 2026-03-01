@@ -3,3 +3,4 @@ typeof 314            // Returns "number"
 typeof 3.14           // Returns "number"
 typeof (3)            // Returns "number"
 typeof (3 + 4)        // Returns "number"
+typeof (4+5)
